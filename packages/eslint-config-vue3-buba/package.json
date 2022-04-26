@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vue3-buba",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Typescript Vue3 Eslint",
   "author": "seonk94",
   "homepage": "https://github.com/seonk94/eslint-extends#readme",
