@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-vue3-buba",
+  "version": "1.0.1",
+  "description": "Typescript Vue3 Eslint",
+  "author": "seonk94",
+  "homepage": "https://github.com/seonk94/eslint-extends#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seonk94/eslint-extends.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/seonk94/eslint-extends/issues"
+  },
+  "peerDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^7.0.0",
+    "prettier": "^2.6.2",
+    "vue-eslint-parser": "^8.3.0"
+  }
+}
