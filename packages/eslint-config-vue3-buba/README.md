@@ -1,11 +1,13 @@
 # `eslint-config-vue3-buba`
 
-> TODO: description
+> Typescript + Vue3 Eslint extends
 
 ## Usage
 
 ```
-const eslintConfigVue3Buba = require('eslint-config-vue3-buba');
+npm i -D eslint-config-vue3-buba
 
-// TODO: DEMONSTRATE API
+or
+
+yarn add -D eslint-config-vue3-buba
 ```

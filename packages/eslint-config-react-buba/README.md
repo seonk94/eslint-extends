@@ -1,11 +1,13 @@
 # `eslint-config-react-buba`
 
-> TODO: description
+> Typescript + React Eslint extends
 
 ## Usage
 
 ```
-const eslintConfigReactBuba = require('eslint-config-react-buba');
+npm i -D eslint-config-react-buba
 
-// TODO: DEMONSTRATE API
+or
+
+yarn add -D eslint-config-react-buba
 ```
